@@ -7,7 +7,7 @@
 - 👀 I’m interested in backend and a little mobile development
 - 🌱 I’m currently learning TypeScript, Go, Flutter&Dart
 - 💞️ I’m looking to collaborate on Mur
-- 📫 If you want to contact me, you can use this mail ***schmakov8@gmail.com***. 
+- 📫 If you want to contact me, you can use this Email ***schmakov8@gmail.com***. 
    
    📄 And the following languages ​​to choose from:
    <ul>
