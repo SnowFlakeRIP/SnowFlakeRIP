@@ -21,6 +21,7 @@ This is me 1 hour before deploing the project
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFlakeRIP&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  ## Something interesting
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowFlakeRIP&repo=Food-market&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowFlakeRIP&repo=CryptoSomething&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
    
 
