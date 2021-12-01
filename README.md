@@ -16,9 +16,9 @@ This is me 1 hour before deploing the project
 ![](https://camo.githubusercontent.com/a55f80b8372a9cc1cb4142bd7f9ff63cdee2884ace71c5a68a66e905e569dff8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666f722d7468652d6261646765266c6f676f3d706f73746d616e266c6f676f436f6c6f723d726564)
 ![](https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
 ## My GitHub stats
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowFlakeRIP&show_icons=true&theme=github_dark)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnowFlakeRIP&show_icons=true&theme=blue-green)
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFlakeRIP&theme=github_dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowFlakeRIP&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
    
 
 
