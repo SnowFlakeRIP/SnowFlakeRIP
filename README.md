@@ -38,6 +38,10 @@
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowFlakeRIP&repo=CryptoSomething&theme=blue-green)](https://github.com/SnowFlakeRIP/CryptoSomething)
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowFlakeRIP&repo=paint-online&theme=blue-green)](https://github.com/SnowFlakeRIP/paint-online)
+ 
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SnowFlakeRIP&repo=graphql&theme=blue-green)](https://github.com/SnowFlakeRIP/graphql)
+ 
+
 
    
 
