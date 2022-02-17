@@ -5,7 +5,7 @@
 ## Some info about me 😄
 - 👋 I’m ***@SnowFlakeRIP*** 
 - 👀 I’m interested in backend and a little mobile development
-- 🌱 I’m currently learning TypeScript, Go, Flutter&Dart
+- 🌱 I’m currently learning TypeScript, JavaScript, Python
 - 👉 I’m looking to collaborate on Mur
 - 📫 If you want to contact me, you can use this Email ***schmakov8@gmail.com***. 
    
